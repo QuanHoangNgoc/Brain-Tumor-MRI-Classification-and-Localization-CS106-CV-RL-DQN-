@@ -1,0 +1,5 @@
+# Why did we achieve these results?
+
+Before we could produce an experiment result that showcases success in the "Result" folder, there were numerous failed experiments that we went through. These failures encompassed various directions, approaches, techniques, ideas, feedback, error analysis that were considered before we could reach the final successful outcome.
+
+These results through persistence, continuous learning from failures, adaptation of strategies based on feedback and analysis, exploring various approaches and techniques, dedication to the research process, innovative thinking, and a collaborative effort within the team. Our commitment to overcoming challenges, openness to experimentation, and willingness to iterate and improve have all contributed to our success in achieving these results.
